@@ -33,8 +33,6 @@ oferece uma gama maior de serviços que a anterior.
 
 <img src="images/table_2.png" style="width: 50%; max-width: 600px; display: block; margin: 0 auto;">
 
-<br>
-
 Desenvolva um ***modelo de classificação que seja capaz de prever se o cliente irá
 cancelar o serviço ou não,*** levando em consideração o seu perfil no streaming.
 Teste com mais de um tipo de modelo para encontrar o que possuir a melhor
@@ -43,5 +41,31 @@ auxiliar e enriquecer a sua análise.
 
 ## 3. Desenvolvimento
 
-### Importando bibliotecas
+<img align="center" src="images/colab_1.png" style="width: 50%; max-width: 300px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/colab_2.png" style="width: 35%; max-width: 300px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/colab_3.png" style="width: 80%; max-width: 500px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/colab_4.png" style="width: 40%; max-width: 400px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/colab_5.png" style="width: 35%; max-width: 300px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/colab_6.png" style="width: 40%; max-width: 300px; display: block; margin: 0 auto;"/>
+
+## 4. Modelagem
+
+<img align="center" src="images/colab_7.png" style="width: 1000%; max-width: 60000px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/colab_8.png" style="width: 25%; max-width: 300px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/colab_9.png" style="width: 40%; max-width: 400px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/colab_10.png" style="width: 50%; max-width: 300px; display: block; margin: 0 auto;"/>
+
+<img align="center" src="images/colab_11.png" style="width: 90%; max-width: 600px; display: block; margin: 0 auto;"/>
+
+## 5. Conclusão
+
+Dessa forma, com a utilização do algoritmo de Random Forest e com a tunagem, foi possível realizar a classificação dos usuários em churn ou não-churn obtendo-se uma melhor ideia dos potenciais resultados no futuro.
 
