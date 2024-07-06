@@ -21,12 +21,27 @@ mais chance de cancelar a sua assinatura na plataforma ou não.** Para isso, a e
 forneceu uma base de dados em csv contendo dados sobre as contas dos clientes.
 
 ## 2. Sobre os dados
-Uma adaptação do problema de ecommerce, disponível no **Kaggle.** Acesse os dados [aqui](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction?select=E+Commerce+Dataset.xlsx).
+Uma adaptação do problema de ecommerce, disponível no **Kaggle.** Acesse [aqui](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction?select=E+Commerce+Dataset.xlsx).
+
+**Base de dados em CSV utilizada para o desenvolvimento:** [Link](https://raw.githubusercontent.com/gcesarmelo7/python_classification_churn/main/database/streaming_data.csv)
 
 Os dados fornecidos possuem informações sobre as contas dos clientes na plataforma
-de streaming, divididos entre contas Basic, Standard e Premium, onde cada uma
+de streaming, divididos entre contas ***Basic, Standard e Premium,*** onde cada uma
 oferece uma gama maior de serviços que a anterior.
 
 <img src="images/table_1.png" style="width: 50%; max-width: 600px; display: block; margin: 0 auto;">
 
 <img src="images/table_2.png" style="width: 50%; max-width: 600px; display: block; margin: 0 auto;">
+
+<br>
+
+Desenvolva um ***modelo de classificação que seja capaz de prever se o cliente irá
+cancelar o serviço ou não,*** levando em consideração o seu perfil no streaming.
+Teste com mais de um tipo de modelo para encontrar o que possuir a melhor
+performance em comparação com um baseline. Utilize gráficos e visualizações para
+auxiliar e enriquecer a sua análise.
+
+## 3. Desenvolvimento
+
+### Importando bibliotecas
+
